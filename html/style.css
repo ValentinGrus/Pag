@@ -20,3 +20,29 @@ padding-left: 44%;
 .titulo3{
     background-color: yellow;
 }
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    font-size: 80px;
+}
+li{
+    font-size: 40px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    border-radius: 100px;
+    background-color: rgb(229, 123, 255);
+}
+.hola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3:hover{
+    background-color: red;
+}
