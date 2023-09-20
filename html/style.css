@@ -1,48 +1,21 @@
+
 h1{
+    font-size: 100px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-background-color: red;
-border-color: aqua;
-border-radius: 15px;
-font-size: 100px;
-margin: 0px;
+justify-content: center;
+align-items: center;
+margin: 15px;
 }
-p{
-    font-size: 40px;
+.col{
+margin: 25px;    
 }
-img{
-padding-left: 44%;
+.card img:hover{
+    transform: scale(1.25);
 }
-.titulo{
-    background-color: aqua;
+.sub{
+    font-size: 25px;
+    margin: 50px;
 }
-.titulo3{
-    background-color: yellow;
-}
-h2{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: underline;
-    font-size: 80px;
-}
-li{
-    font-size: 40px;
-}
-h3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 40px;
-    border-radius: 100px;
-    background-color: rgb(229, 123, 255);
-}
-.hola{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-h3:hover{
-    background-color: red;
+.header{
+    position: sticky;
 }
