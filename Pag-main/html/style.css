@@ -1,0 +1,25 @@
+
+.titulo{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    text-decoration: underline;
+}
+.col{
+    margin: 25px;    
+}
+.card img:hover{
+    transform: scale(1.25);
+}
+.sub{
+    font-size: 25px;
+    margin: 50px;
+}
+.header{
+    position: sticky;
+}
+.navbar-brand{
+    text-decoration: none;
+}
